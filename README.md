@@ -2,7 +2,10 @@
 Cow mob for Minetest
 
 Licenced as CC by SA 3.0
-
+  
+  
+Texture: [mob]-[texture_size]-[color]-[type]-[show/hide part].[ext]  
+show/hide part: h - horns size (0,1,2), b - bell (0/1), u - udders (0/1)  
 
 Animations:  
 
