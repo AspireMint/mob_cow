@@ -4,27 +4,27 @@ Cow mob for Minetest
 Licenced as CC by SA 3.0
 
 
-Animations:
+Animations:  
 
-lying 1: 10 - 510
-lying 2: 520 - 1020
+lying 1: 10 - 510  
+lying 2: 520 - 1020  
 
-standing 1: 1030 - 1530
-standing 2: 1540 - 2040
-standing 3: 2060 - 2564
+standing 1: 1030 - 1530  
+standing 2: 1540 - 2040  
+standing 3: 2060 - 2564  
 
-walking: 2580 - 2660
-running: 2670 - 2710
+walking: 2580 - 2660  
+running: 2670 - 2710  
 
-attack 1: 2720 - 2740
-attack 2: 2750 - 2770
-attack 3: 2780 - 2800
+attack 1: 2720 - 2740  
+attack 2: 2750 - 2770  
+attack 3: 2780 - 2800  
 
 
-Static positions at frame:
+Static positions at frame:  
 
-0 - standing
-1 - lying
+0 - standing  
+1 - lying  
 
 
 Preview:
