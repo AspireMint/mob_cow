@@ -1,7 +1,9 @@
 # mob_cow
 Cow mob for Minetest
 
-Licenced as CC by SA 3.0
+Licensed as CC by SA 3.0  
+For more details:  
+http://creativecommons.org/licenses/by-sa/3.0/  
   
   
 Texture: [mob]-[texture_size]-[color]-[type]-[show/hide part].[ext]  
